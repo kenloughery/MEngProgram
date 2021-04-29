@@ -3,6 +3,7 @@
 Evan Boerchers<br/>
 Kenneth Loughery<br/>
 Myles Borthwick<br/>
+Link to original repo: https://github.com/evankboerchers/SpringChicken<br/>
 
 ## About
 
